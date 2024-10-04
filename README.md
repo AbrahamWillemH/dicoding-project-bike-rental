@@ -1,15 +1,17 @@
 # dicoding-project-bike-rental
+Proyek analisis data peminjaman sepeda dengan menggunakan python. 
+Library yang digunakan berupa : NumPy, Matplotlib, Pandas, dan Streamlit.
 
-## Setup Shell/Terminal
+### Setup Shell/Terminal
 ```
-mkdir dicoding-bike-sharing
-cd dicoding-bike-sharing
+mkdir proyek-analisis-data
+cd proyek-analisis-data
 pipenv install
 pipenv shell
 pip install -r requirements.txt
 ```
 
-## Run dashboard using the streamlit app
+### Run dashboard using the streamlit app
 ```
-streamlit run app.py
+streamlit run dashboard.py
 ```
