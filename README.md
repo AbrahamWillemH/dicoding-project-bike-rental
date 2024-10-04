@@ -1,6 +1,6 @@
 # dicoding-project-bike-rental
 Proyek analisis data peminjaman sepeda dengan menggunakan python. 
-Library yang digunakan berupa : NumPy, Matplotlib, Pandas, dan Streamlit.
+Library yang digunakan berupa : `NumPy`, `Matplotlib`, `Pandas`, dan `Streamlit`.
 
 ### Setup project
 ```
