@@ -2,7 +2,7 @@
 Proyek analisis data peminjaman sepeda dengan menggunakan python. 
 Library yang digunakan berupa : NumPy, Matplotlib, Pandas, dan Streamlit.
 
-### Setup Shell/Terminal
+### Setup project
 ```
 mkdir proyek-analisis-data
 cd proyek-analisis-data
@@ -11,7 +11,7 @@ pipenv shell
 pip install -r requirements.txt
 ```
 
-### Run dashboard using the streamlit app
+### Run web app with streamlit
 ```
 streamlit run dashboard.py
 ```
